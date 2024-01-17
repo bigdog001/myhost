@@ -1,4 +1,4 @@
-const totalRecordsSize={
+const totalRecords={
     totalRecordsSize:480,
     channelRecordsSize:[12,145,19,88],
     categories:["","","","","",""],
