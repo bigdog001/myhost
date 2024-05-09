@@ -2,32 +2,42 @@ const baseURL = "https://githubstatic.cloud-ip.net/resources/iNews/js/";
 if (document.readyState == "loading") {
     document.addEventListener("DOMContentLoaded", ready);
 }
-
 function ready() {
-    let items = document.getElementsByName("iNewsItem");
-    items.forEach(item =>{
-        let newsId = item.getAttribute("data-id")
-        console.log("type of:"+(typeof  item))
-        if(newsId){
-            const content = findContentItem(newsId)
-            if(content){
-                if(item.getAttribute("data-length")){
-                    const length = item.getAttribute("data-length");
-                    if(content.title.length > length ){
-                        item.innerHTML = content.title.substring(0,length);
-                    }else {
-                        item.innerHTML = content.title;
-                    }
-                }else {
-                    item.innerHTML = content.title;
-                }
-                if(item.getAttribute("href")){
-                    item.setAttribute("href",baseURL+content.publishDates[0]+"/"+content.publishDates[1]+"/"+content.publishDates[2]+"/"+content.id+".html") ;
-                    item.setAttribute("title",content.title);
-                }
-            }
+    let items_a = document.getElementsByTagName('a');
+    let items_span = document.getElementsByTagName('span');
+    let items_label = document.getElementsByTagName('label');
+    let items_div = document.getElementsByTagName('div');
+    let items = [...items_a, ...items_span, ...items_label,...items_div];
+
+    for (let i = 0; i < items.length; i++) {
+        let item = items[i];
+        if (!item) {
+            continue;
         }
-    })
+        let newsId = item.getAttribute("data-id")
+        if (!newsId) {
+            continue;
+        }
+        const content = findContentItem(newsId)
+        if (!content) {
+            continue;
+        }
+        if (item.getAttribute("data-length")) {
+            const length = item.getAttribute("data-length");
+            if (content.title.length > length) {
+                item.innerHTML = content.title.substring(0, length);
+            } else {
+                item.innerHTML = content.title;
+            }
+        } else {
+            item.innerHTML = content.title;
+        }
+        if (item.getAttribute("href")) {
+            item.setAttribute("href", baseURL + content.publishDates[0] + "/" + content.publishDates[1] + "/" + content.publishDates[2] + "/" + content.id + ".html");
+            item.setAttribute("title", content.title);
+        }
+
+    }
 }
 
 function findContentItem(Id){
