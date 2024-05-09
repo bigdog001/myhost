@@ -50,3 +50,48 @@ function findContentItem(Id){
     }
     return undefined
 }
+
+
+
+function buildMenus(tagName) {
+    let items = document.getElementsByTagName(tagName);
+
+    for (let i = 0; i < items.length; i++) {
+        let item = items[i];
+        if (!item) {
+            continue;
+        }
+        let newsId = item.getAttribute("menu-id")
+        if (!newsId) {
+            continue;
+        }
+        const content = findMenuItem(newsId)
+        if (!content) {
+            continue;
+        }
+        if (item.getAttribute("menu-length")) {
+            const length = item.getAttribute("menu-length");
+            if (content.channelName.length > length) {
+                item.innerHTML = content.channelName.substring(0, length);
+            } else {
+                item.innerHTML = content.channelName;
+            }
+        } else {
+            item.innerHTML = content.channelName;
+        }
+        if (item.getAttribute("href")) {
+            item.setAttribute("href", "./"+ content.id + ".html");
+            item.setAttribute("title", content.channelDesc);
+        }
+
+    }
+}
+
+function findMenuItem(Id){
+    for(let i = 0 ;i<totalRecords.channelRecords.length;i++){
+        if(Id == totalRecords.channelRecords[i].id){
+            return totalRecords.channelRecords[i];
+        }
+    }
+    return undefined
+}
