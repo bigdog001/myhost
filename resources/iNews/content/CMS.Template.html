@@ -1,0 +1,36 @@
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>CMS Profile</title>
+</head>
+<body>
+<div id="navMenu"></div>
+<a data-id="3" data-length="50" href="#" name="iNewsItem"></a><br/><br/>
+<a data-id="6" data-length="5" href="#" name="iNewsItem"></a><br/><br/>
+<span data-id="7" data-length="5" href="#" name="iNewsItem"></span><br/><br/>
+<a data-id="9" data-length="5" href="#" name="iNewsItem"></a><br/><br/>
+
+
+
+<!--<script src="https://githubstatic.cloud-ip.net/resources/iNews/js/iNews_MetaData.js"></script>-->
+<script src="https://githubstatic.cloud-ip.net/resources/iNews/js/iNews_MetaData_mini.js"></script>
+<script src="https://githubstatic.cloud-ip.net/resources/iNews/js/PageBuilder.js"></script>
+
+<script>
+    buildNavMenu();
+
+    function buildNavMenu(){
+        if(!document.getElementById("navMenu")){
+            return;
+        }
+        let navMenu = "<ul>";
+        for(let i = 0 ;i<totalRecords.channelRecords.length;i++){
+            navMenu += '<li>'+totalRecords.channelRecords[i].channelName+'</li>';
+        }
+        navMenu+="</ul>";
+        document.getElementById("navMenu").innerHTML = navMenu;
+    }
+
+</script>
+</body>
+</html>
