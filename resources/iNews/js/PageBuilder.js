@@ -33,7 +33,12 @@ function ready() {
             item.innerHTML = content.title;
         }
         if (item.getAttribute("href")) {
-            item.setAttribute("href", baseURL + content.publishDates[0] + "/" + content.publishDates[1] + "/" + content.publishDates[2] + "/" + content.id + ".html");
+            if(item.getAttribute("outer") && content.whereFromUrl ){
+                item.setAttribute("href", content.whereFromUrl);
+            }else{
+                item.setAttribute("href", baseURL + content.publishDates[0] + "/" + content.publishDates[1] + "/" + content.publishDates[2] + "/" + content.id + ".html");
+            }
+            
             item.setAttribute("title", content.title);
         }
 
