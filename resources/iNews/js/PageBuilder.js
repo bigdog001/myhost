@@ -22,6 +22,11 @@ function ready() {
         if (!content) {
             continue;
         }
+        if(item.nodeName === "IMG" && content.frontCover ){
+            item.src=content.frontCover;
+            continue;
+        }
+        
         if (item.getAttribute("data-length")) {
             const length = item.getAttribute("data-length");
             if (content.title.length > length) {
