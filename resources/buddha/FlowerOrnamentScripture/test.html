@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>《华严经》(80卷)第10品 菩萨问明</title>
+    <link rel="stylesheet" href="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/mycss.css">
+    <script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/jquery.min.js"></script>
+    <script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/bootstrap.min.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/buddha/FlowerOrnamentScripture/js/100.js"></script>
+</head>
+<body>
+
+<center><h3 id="mytitle"> </h3></center><br><br>
+
+<div id="contents" class="container themeans" style="margin-top:30px;">
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="尔时,文殊师利菩萨问觉首菩萨言">THEN THE ENLIGHTENING BEING Manjushri asked the enlightening being Chief of the Awakened</a>&nbsp;:&nbsp;"<a class="tooltip-test" data-toggle="tooltip" title="佛子，心性是一">Since the nature of mind is one</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="云何见有种种差别">what is the reason for seeing the existence of various differences</a>?&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="所谓：往善趣、恶趣">such as going to good or bad tendencies</a>;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 诸根满、缺">having complete or imperfect faculties</a>;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="受生同、异；端正、丑陋；苦、乐不同">differences in birth, beauty and ugliness, pain and pleasure, suffering and happiness </a>;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="业不知心，心不知业">Why is it that activity doesn't know mind, mind doesn't know activity</a>;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="受不知报，报不知受">reception doesn't know consequence, consequence doesn't know reception</a>;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="心不知受，受不知心">mind doesn't know reception, reception doesn't know mind</a>;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="因不知缘，缘不知因">cause doesn't know condition, condition doesn't know cause</a>;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="智不知境，境不知智">knowledge doesn't know object, object doesn't know knowledge</a>?"&nbsp;<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="时，觉首菩萨以颂答曰">Chief of the Awakened answered in verse, saying</a>:<br/><br/>&nbsp;&nbsp;&nbsp;"<a class="tooltip-test" data-toggle="tooltip" title=" 仁今问是义">Benevolent One, you ask the meaning of this</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 为晓悟群蒙">To awaken all the ignorant</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 我如其性答">I will answer according to the essence</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 惟仁应谛听">Listen clearly, Benevolent One</a>.<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;"<a class="tooltip-test" data-toggle="tooltip" title=" 诸法无作用">Phenomena have no function</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 亦无有体性">And have no individual nature</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 是故彼一切">Therefore all of them</a>,&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 各各不相知">Do not know one another</a>.<br/><br/>&nbsp;&nbsp;&nbsp;"<a class="tooltip-test" data-toggle="tooltip" title=" 譬如河中水">Like the waters in a river</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 湍流竞奔逝">Their rushing flow races past</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 各各不相知">Each unaware of the others</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title=" 诸法亦如是">So it is with all things</a>.<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;"<a class="tooltip-test" data-toggle="tooltip" title="亦如大火聚">It's also like a mass of fire</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="猛焰同时发">Blazing flames shoot up at once</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="各各不相知">Each not knowing the others</a>,&nbsp;&nbsp;<a class="tooltip-test" data-toggle="tooltip" title="诸法亦如是">Phenomena are also thus</a>.<br/><br/>&nbsp;
+
+</div>
+
+    <script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/myjs.js"></script>
+
+</body>
+<script>
+        if (document.readyState == "loading") {
+       // document.addEventListener("DOMContentLoaded", ready);
+        }
+    function ready() {
+    if(!scriptureRecords.data){
+    alert("empty data...");
+    return;
+    }
+    var body_data = "";
+    for (let i in scriptureRecords.data) {
+        const transData = scriptureRecords.data[i].itemTrans;
+        const item = scriptureRecords.data[i].item;
+        const pref = (scriptureRecords.data[i].itemPrefix) ? scriptureRecords.data[i].itemPrefix.replaceAll(" ","&nbsp;") :"";
+        const postf = (scriptureRecords.data[i].itemPostFix)? scriptureRecords.data[i].itemPostFix.replaceAll(" ","&nbsp;") :"";
+        //body_data += pref+"<a class=\"tooltip-test\" data-toggle=\"tooltip\" title=\""+item+"\">"+transData+"</a>"+postf;
+        body_data += pref+"<a class=\"tooltip-test\" data-toggle=\"tooltip\" title=\""+item+"\">"+transData+"</a>"+postf;
+    }
+    console.log(body_data);
+    document.getElementById('contents').innerHTML=body_data;
+    document.getElementById('mytitle').innerHTML=scriptureRecords.title;
+    }
+</script>
+</html>
+
