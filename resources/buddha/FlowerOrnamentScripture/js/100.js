@@ -87,7 +87,7 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"仁今应谛受","itemPostFix":".<br/><br/>","itemTrans":"Now please listen clearly.","itemComment":"","good":true},
 
     {"itemPrefix":"  ","item":"分别观内身","itemPostFix":" ,","itemTrans":"Analyze the body within","itemComment":"","good":true},
-    {"itemPrefix":"  ","item":"此中谁是我","itemPostFix":" ?","itemTrans":"Who herein is the "self'","itemComment":"","good":true},
+    {"itemPrefix":"  ","item":"此中谁是我","itemPostFix":" ?","itemTrans":"Who herein is the 'self'","itemComment":"","good":true},
     {"itemPrefix":"  ","item":"若能如是解","itemPostFix":" ,","itemTrans":"Who can understand this way","itemComment":"","good":true},
     {"itemPrefix":"  ","item":"彼达我有无","itemPostFix":" .<br/><br/>","itemTrans":"Will comprehend the existence or not of the self.","itemComment":"","good":true},
 
