@@ -269,7 +269,7 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"随其心乐","itemPostFix":"、","itemTrans":"according to their inclinations","itemComment":"inclinations-倾向","good":true},
     {"itemPrefix":" ","item":"随其方便","itemPostFix":"、","itemTrans":"according to their expedients","itemComment":"expedients-方便","good":true},
     {"itemPrefix":" ","item":"随其思惟","itemPostFix":"、","itemTrans":"according to their thoughts","itemComment":"","good":true},
-    {"itemPrefix":" ","item":"随其观察","itemPostFix":".<br/><br/>","itemTrans":"according to their observations","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其观察","itemPostFix":".\"<br/><br/>","itemTrans":"according to their observations","itemComment":"","good":true},
 
     {"itemPrefix":"    ","item":"时，财首菩萨以颂答曰","itemPostFix":":","itemTrans":"Chief in Riches answered him in verse","itemComment":"","good":true},
 
