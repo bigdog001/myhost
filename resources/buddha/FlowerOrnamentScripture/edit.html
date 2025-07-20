@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Editor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>Editor</h1>
+
+<form onsubmit="return buildForm()" class="row g-3">
+  <div class="col-md-6">
+    <label for="itemPrefix" class="form-label">itemPrefix</label>
+    <input type="text" value=" " class="form-control" id="itemPrefix">
+  </div>
+  <div class="col-md-6">
+    <label for="itemPostFix" class="form-label">itemPostFix</label>
+    <input type="text" value=" " class="form-control" id="itemPostFix">
+  </div>
+  <div class="col-12">
+    <label for="item" class="form-label">原文</label>
+  <textarea class="form-control" id="item" rows="1"></textarea>
+  </div>
+  <div class="col-12">
+    <label for="itemTrans" class="form-label">译文</label>
+  <textarea class="form-control" id="itemTrans" rows="1"></textarea>
+  </div>
+  <div class="col-12">
+     <label for="itemComment" class="form-label">注解</label>
+  <textarea class="form-control" id="itemComment" rows="1"></textarea>
+  </div>
+  <div class="col-12">
+    <div class="form-check">
+      <input checked class="form-check-input" type="checkbox" id="good">
+      <label class="form-check-label" for="good">
+        GOOD
+      </label>
+    </div>
+  </div>
+  <div class="col-12">
+    <button type="submit" class="btn btn-success">Sign in</button>
+  </div>
+</form>
+<script>
+function buildForm(){
+   const good = document.getElementById('good').checked;
+   const itemPrefix = document.getElementById('itemPrefix').value;
+   const itemPostFix = document.getElementById('itemPostFix').value;
+   const item = document.getElementById('item').value;
+   const itemTrans = document.getElementById('itemTrans').value;
+   const itemComment = document.getElementById('itemComment').value;
+   const result="{\"itemPrefix\":\""+itemPrefix+"\",\"item\":\""+item+"\",\"itemPostFix\":\""+itemPostFix+"\",\"itemTrans\":\""+itemTrans+"\",\"itemComment\":\""+itemComment+"\",\"good\":"+good+  "},";
+   console.log(result);
+return false;
+}
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+  </body>
+</html>
