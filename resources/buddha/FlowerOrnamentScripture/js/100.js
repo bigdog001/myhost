@@ -258,10 +258,22 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"世间出世间","itemPostFix":",","itemTrans":"Mundane or transmundane","itemComment":"transmundane-超凡脱俗","good":true},
     {"itemPrefix":" ","item":"但有假言说","itemPostFix":".<br/><br/>","itemTrans":"There's nothing but descriptions","itemComment":"","good":true},
 
+    {"itemPrefix":"    ","item":"尔时，文殊师利菩萨问财首菩萨言","itemPostFix":":","itemTrans":"Then Manjushri asked Chief in Riches of Truth","itemComment":"","good":true},
+    {"itemPrefix":" "","item":"佛子，一切众生非众生","itemPostFix":",","itemTrans":"Since all sentient beings are not sentient beings","itemComment":"","good":false},
+    {"itemPrefix":" ","item":"于如是诸众生中,云何如来随其时","itemPostFix":",","itemTrans":"why does the Buddha appear in their midst for their sake and teach them according to the time","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其命","itemPostFix":"、","itemTrans":"according to their lives","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其身","itemPostFix":"、","itemTrans":"according to their species","itemComment":"species-物种,种类,类","good":true},
+    {"itemPrefix":" ","item":"随其行","itemPostFix":"、","itemTrans":"according to their actions","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其解","itemPostFix":"、","itemTrans":"accord­ ing to their understandings","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其言论","itemPostFix":"、","itemTrans":"according to their philosophies","itemComment":"philosophies-哲学","good":true},
+    {"itemPrefix":" ","item":"随其心乐","itemPostFix":"、","itemTrans":"according to their inclinations","itemComment":"inclinations-倾向","good":true},
+    {"itemPrefix":" ","item":"随其方便","itemPostFix":"、","itemTrans":"according to their expedients","itemComment":"expedients-方便","good":true},
+    {"itemPrefix":" ","item":"随其思惟","itemPostFix":"、","itemTrans":"according to their thoughts","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"随其观察","itemPostFix":".<br/><br/>","itemTrans":"according to their observations","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"时，财首菩萨以颂答曰","itemPostFix":":","itemTrans":"Chief in Riches answered him in verse","itemComment":"","good":true},
 
     
-    
-
 
 
 
