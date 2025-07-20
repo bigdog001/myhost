@@ -259,7 +259,7 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"但有假言说","itemPostFix":".<br/><br/>","itemTrans":"There's nothing but descriptions","itemComment":"","good":true},
 
     {"itemPrefix":"    ","item":"尔时，文殊师利菩萨问财首菩萨言","itemPostFix":":","itemTrans":"Then Manjushri asked Chief in Riches of Truth","itemComment":"","good":true},
-    {"itemPrefix":" "","item":"佛子，一切众生非众生","itemPostFix":",","itemTrans":"Since all sentient beings are not sentient beings","itemComment":"","good":false},
+    {"itemPrefix":" \"","item":"佛子，一切众生非众生","itemPostFix":",","itemTrans":"Since all sentient beings are not sentient beings","itemComment":"","good":false},
     {"itemPrefix":" ","item":"于如是诸众生中,云何如来随其时","itemPostFix":",","itemTrans":"why does the Buddha appear in their midst for their sake and teach them according to the time","itemComment":"","good":true},
     {"itemPrefix":" ","item":"随其命","itemPostFix":"、","itemTrans":"according to their lives","itemComment":"","good":true},
     {"itemPrefix":" ","item":"随其身","itemPostFix":"、","itemTrans":"according to their species","itemComment":"species-物种,种类,类","good":true},
