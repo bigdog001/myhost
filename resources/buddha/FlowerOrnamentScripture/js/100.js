@@ -224,7 +224,7 @@ const scriptureRecords={
                 "good":true,
                },
     {"itemPrefix":" ","item":"又如长风起","itemPostFix":" ,","itemTrans":"Also like a continuous wind","itemComment":"","good":true},
-    {"itemPrefix":" ","item":"遇物咸鼓扇","itemPostFix":" ,","itemTrans":"Fanning and drumming whatever it hits","itemComment":"","good":true}
+    {"itemPrefix":" ","item":"遇物咸鼓扇","itemPostFix":" ,","itemTrans":"Fanning and drumming whatever it hits","itemComment":"","good":true},
     {"itemPrefix":" ","item":"各各不相知","itemPostFix":", ","itemTrans":"Each unaware of the other","itemComment":"","good":true},
      {"itemPrefix":" ","item":"诸法亦如是","itemPostFix":".<br/><br/>","itemTrans":"So also are all things","itemComment":"","good":true}
 ]
