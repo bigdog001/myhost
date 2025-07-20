@@ -79,10 +79,49 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"随其思惟","itemPostFix":"、","itemTrans":"according to their thoughts","itemComment":"","good":true},
     {"itemPrefix":" ","item":"随其观察","itemPostFix":".\"<br/><br/>","itemTrans":"according to their observations","itemComment":"","good":true},
 
-    {"itemPrefix":"    ","item":"时，财首菩萨以颂答曰","itemPostFix":":","itemTrans":"Chief in Riches answered him in verse","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"时，财首菩萨以颂答曰","itemPostFix":":<br/><br/>","itemTrans":"Chief in Riches answered him in verse","itemComment":"","good":true},
+
+    {"itemPrefix":"    \"","item":"此是乐寂灭","itemPostFix":" ,","itemTrans":"This is the realm of the learned","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"多闻者境界","itemPostFix":" ,","itemTrans":"Who delight in ultimate peace","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"我为仁宣说","itemPostFix":" ,","itemTrans":"I will explain for you","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"仁今应谛受","itemPostFix":".<br/><br/>","itemTrans":"Now please listen clearly.","itemComment":"","good":true},
+
+    {"itemPrefix":"  ","item":"分别观内身","itemPostFix":" ,","itemTrans":"Analyze the body within","itemComment":"","good":true},
+    {"itemPrefix":"  ","item":"此中谁是我","itemPostFix":" ?","itemTrans":"Who herein is the "self'","itemComment":"","good":true},
+    {"itemPrefix":"  ","item":"若能如是解","itemPostFix":" ,","itemTrans":"Who can understand this way","itemComment":"","good":true},
+    {"itemPrefix":"  ","item":"彼达我有无","itemPostFix":" .<br/><br/>","itemTrans":"Will comprehend the existence or not of the self.","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"此身假安立","itemPostFix":",","itemTrans":"This body is a temporary set-up","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"住处无方所","itemPostFix":",","itemTrans":"And has no place of abode","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"谛了是身者","itemPostFix":",","itemTrans":"Who understands this body","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"于中无所著","itemPostFix":".<br/><br/>","itemTrans":"Will have no attachment to it","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"于身善观察","itemPostFix":",","itemTrans":"Considering the body carefully","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"一切皆明见","itemPostFix":",","itemTrans":"Everything will be clearly seen","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"知法皆虚妄","itemPostFix":",","itemTrans":"Knowing all the elements are unreal","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"不起心分别","itemPostFix":".<br/><br/>","itemTrans":"One will not create mental fabrications","itemComment":"fabrications-假话,仿制品","good":true},
+
+    {"itemPrefix":"    ","item":"寿命因谁起","itemPostFix":"?","itemTrans":"Based on whom does life arise","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"复因谁退灭","itemPostFix":"?","itemTrans":"And based on whom docs it disappear","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"犹如旋火轮","itemPostFix":",","itemTrans":"Like a turning wheel of fire","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"初后不可知","itemPostFix":".<br/><br/>","itemTrans":"Its beginning and end can't be known","itemComment":"","good":true},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
-
 
 
 
