@@ -144,7 +144,7 @@ const scriptureRecords={
 
     {"itemPrefix":" ","item":"Chief of the Precious answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，宝首菩萨以颂答曰","itemComment":"","good":true},
 
-    {"itemPrefix":"    ","item":"随其所行业","itemPostFix":",","itemTrans":"According to what deeds arc done","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"随其所行业","itemPostFix":",","itemTrans":"According to what deeds are done","itemComment":"","good":true},
     {"itemPrefix":"    ","item":"如是果报生","itemPostFix":",","itemTrans":"Do their resulting consequences come to be","itemComment":"","good":true},
     {"itemPrefix":"    ","item":"作者无所有","itemPostFix":",","itemTrans":"Yet the doer has no existence","itemComment":"","good":true},
     {"itemPrefix":"    ","item":"诸佛之所说","itemPostFix":".<br/><br/>","itemTrans":"This is the Buddha's teaching","itemComment":"","good":true},
