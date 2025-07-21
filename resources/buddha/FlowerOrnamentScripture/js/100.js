@@ -184,6 +184,20 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"This fire comes from nowhere","itemPostFix":",","itemTrans":"此火无来处","itemComment":"conflagration-大火","good":true},
     {"itemPrefix":" ","item":"So docs the nature of actions","itemPostFix":".\"<br/><br/>","itemTrans":"业性亦如是","itemComment":"conflagration-大火","good":true},
 
+    {"itemPrefix":"     ","item":"Then Manjushri asked Chief of the Virtuous","itemPostFix":":","itemTrans":"尔时，文殊师利菩萨问德首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" \"","item":"Since that which the Buddhas realize is but one truth","itemPostFix":",","itemTrans":"佛子，如来所悟，唯是一法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"how is it that they expound countless teachings","itemPostFix":",","itemTrans":"云何乃说无量诸法","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"manifest countless lands","itemPostFix":",","itemTrans":"现无量刹","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"edify countless beings","itemPostFix":",","itemTrans":"化无量众","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"speak in countless languages","itemPostFix":",","itemTrans":"演无量音","itemComment":"","good":true},  
+    {"itemPrefix":"","item":" appear in countless bodies","itemPostFix":",","itemTrans":"示无量身","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"know countless minds","itemPostFix":",","itemTrans":"知无量心","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"demonstrate countless mystic powers","itemPostFix":",","itemTrans":"现无量神通","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"arc able to shake countless worlds","itemPostFix":",","itemTrans":"普能震动无量世界","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"display countless extraordinary adornments","itemPostFix":",","itemTrans":"示现无量殊胜庄严","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"reveal boundless different realms of objects","itemPostFix":",","itemTrans":"显示无边种种境界","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"whereas in the essential nature of things these different characteristics cannot be found at all","itemPostFix":"?\"<br/><br/>","itemTrans":"而法性中，此差别相，皆不可得","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"Chief of the Virtuous answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，德首菩萨以颂答曰","itemComment":"","good":true},  
     
 
     
