@@ -144,15 +144,15 @@ const scriptureRecords={
 
     {"itemPrefix":" ","item":"Chief of the Precious answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，宝首菩萨以颂答曰","itemComment":"","good":true},
 
-    {"itemPrefix":"    ","item":"随其所行业","itemPostFix":",","itemTrans":"According to what deeds are done","itemComment":"","good":true},
-    {"itemPrefix":"    ","item":"如是果报生","itemPostFix":",","itemTrans":"Do their resulting consequences come to be","itemComment":"","good":true},
-    {"itemPrefix":"    ","item":"作者无所有","itemPostFix":",","itemTrans":"Yet the doer has no existence","itemComment":"","good":true},
-    {"itemPrefix":"    ","item":"诸佛之所说","itemPostFix":".<br/><br/>","itemTrans":"This is the Buddha's teaching","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"随其所行业","itemPostFix":",","item":"According to what deeds are done","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"如是果报生","itemPostFix":",","item":"Do their resulting consequences come to be","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"作者无所有","itemPostFix":",","item":"Yet the doer has no existence","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"诸佛之所说","itemPostFix":".<br/><br/>","item":"This is the Buddha's teaching","itemComment":"","good":true},
 
-    {"itemPrefix":"    ","item":"譬如净明镜","itemPostFix":",","itemTrans":"Like a clear mirror","itemComment":"","good":true},
-    {"itemPrefix":"    ","item":"随其所对质","itemPostFix":",","itemTrans":"According to what comes before it","itemComment":"","good":false},
-    {"itemPrefix":"    ","item":"现像各不同","itemPostFix":",","itemTrans":"Reflecting forms, each different","itemComment":"","good":true},
-    {"itemPrefix":"    ","item":"业性亦如是","itemPostFix":".<br/><br/>","itemTrans":"So is the nature of actions","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"譬如净明镜","itemPostFix":",","item":"Like a clear mirror","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"随其所对质","itemPostFix":",","item":"According to what comes before it","itemComment":"","good":false},
+    {"itemPrefix":"    ","itemTrans":"现像各不同","itemPostFix":",","item":"Reflecting forms, each different","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"业性亦如是","itemPostFix":".<br/><br/>","item":"So is the nature of actions","itemComment":"","good":true},
 
     
 
