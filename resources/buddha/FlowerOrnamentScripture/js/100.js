@@ -106,7 +106,36 @@ const scriptureRecords={
     {"itemPrefix":"    ","item":"犹如旋火轮","itemPostFix":",","itemTrans":"Like a turning wheel of fire","itemComment":"","good":true},
     {"itemPrefix":"    ","item":"初后不可知","itemPostFix":".<br/><br/>","itemTrans":"Its beginning and end can't be known","itemComment":"","good":true},
 
+    {"itemPrefix":"    ","item":"智者能观察","itemPostFix":",","itemTrans":"The wise can observe with insight","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"一切有无常","itemPostFix":",","itemTrans":"The impermanence of all existents","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"诸法空无我","itemPostFix":",","itemTrans":"All things are empty and selfless","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"永离一切相","itemPostFix":".<br/><br/>","itemTrans":"Forever apart from all signs","itemComment":"","good":true},
 
+    {"itemPrefix":"    ","item":"众报随业生","itemPostFix":",","itemTrans":"All consequences are born from actions","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"如梦不真实","itemPostFix":",","itemTrans":"Like dreams, they're not truly real","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"念念常灭坏","itemPostFix":",","itemTrans":"From moment to moment they continually die away","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"如前后亦尔","itemPostFix":".<br/><br/>","itemTrans":"The same as before and after","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"世间所见法","itemPostFix":",","itemTrans":"Of all things seen in the world","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"但以心为主","itemPostFix":",","itemTrans":"Only mind is the host","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"随解取众相","itemPostFix":",","itemTrans":"By grasping forms according to interpretation","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"颠倒不如实","itemPostFix":"..<br/><br/>","itemTrans":"It becomes deluded, not true to reality","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"世间所言论","itemPostFix":".","itemTrans":"All philosophies in the world ","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"一切是分别","itemPostFix":".","itemTrans":"Are mental fabrications","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"未曾有一法","itemPostFix":".","itemTrans":"There has never been a single doctrine","itemComment":"doctrine-教义,学说","good":true},
+    {"itemPrefix":"    ","item":"得入于法性","itemPostFix":".<br/><br/>","itemTrans":"By which one could enter the true essence of things","itemComment":"","good":true},
+
+    {"itemPrefix":"    ","item":"能缘所缘力","itemPostFix":",","itemTrans":"By the power of perceiver and perceived","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"种种法出生","itemPostFix":",","itemTrans":"All kinds of things are born","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"速灭不暂停","itemPostFix":",","itemTrans":"They soon pass away, not staying","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"念念悉如是","itemPostFix":".<br/><br/>\"","itemTrans":"Dying out instant to instant","itemComment":"Dying","good":true},
+
+    
+
+    
+
+    
 
 
 
