@@ -154,6 +154,36 @@ const scriptureRecords={
     {"itemPrefix":"    ","itemTrans":"现像各不同","itemPostFix":",","item":"Reflecting forms, each different","itemComment":"","good":true},
     {"itemPrefix":"    ","itemTrans":"业性亦如是","itemPostFix":".<br/><br/>","item":"So is the nature of actions","itemComment":"临近段遗落","good":false},
 
+    {"itemPrefix":"    ","item":"And like a skillful magician","itemPostFix":" ,","itemTrans":"又如巧幻师","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Standing at a crossroads","itemPostFix":" ,","itemTrans":"在彼四衢道","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Causing many forms to appear","itemPostFix":" ,","itemTrans":"示现众色相","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"So is the nature of actions","itemPostFix":" .<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Like a mechanical robot","itemPostFix":",","itemTrans":"如机关木人","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Able to utter various sounds","itemPostFix":",","itemTrans":"能出种种声","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Neither self nor not self","itemPostFix":",","itemTrans":"彼无我非我","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"So is the nature of actions","itemPostFix":".<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"And like different species of birds","itemPostFix":",","itemTrans":"亦如众鸟类","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"All emerging from eggs","itemPostFix":",","itemTrans":"从㲉而得出","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"Yet their voices not the same","itemPostFix":",","itemTrans":"音声各不同","itemComment":"","good":true},
+    {"itemPrefix":"    ","item":"So is the nature of actions","itemPostFix":".<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+
+    {"itemPrefix":" ","item":"Just as in the womb","itemPostFix":" ","itemTrans":"譬如胎藏中","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"All organs are developed","itemPostFix":" ","itemTrans":"诸根悉成就","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Their substance and features coming from nowhere","itemPostFix":" ","itemTrans":"体相无来处","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"So is the nature of actions","itemPostFix":" .<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Also like being in hell","itemPostFix":",","itemTrans":"又如在地狱","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"The various painful things","itemPostFix":",","itemTrans":"种种诸苦事","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"All come from nowhere","itemPostFix":",","itemTrans":"彼悉无所从","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"So is the nature of actions","itemPostFix":".<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Also like the sovereign king ","itemPostFix":",","itemTrans":"譬如转轮王","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"With seven supreme treasures","itemPostFix":",","itemTrans":"成就胜七宝","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Their provenance cannot be found","itemPostFix":",","itemTrans":"来处不可得","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"So is the nature of actions","itemPostFix":".<br/><br/>","itemTrans":"业性亦如是","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"And as when the various worlds","itemPostFix":",","itemTrans":"又如诸世界","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Are burnt by a great conflagration","itemPostFix":",","itemTrans":"大火所烧燃","itemComment":"conflagration-大火","good":true},
+    {"itemPrefix":" ","item":"This fire comes from nowhere","itemPostFix":",","itemTrans":"此火无来处","itemComment":"conflagration-大火","good":true},
+    {"itemPrefix":" ","item":"So docs the nature of actions","itemPostFix":".\"<br/><br/>","itemTrans":"业性亦如是","itemComment":"conflagration-大火","good":true},
+
     
 
     
