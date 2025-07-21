@@ -152,7 +152,7 @@ const scriptureRecords={
     {"itemPrefix":"    ","itemTrans":"譬如净明镜","itemPostFix":",","item":"Like a clear mirror","itemComment":"","good":true},
     {"itemPrefix":"    ","itemTrans":"随其所对质","itemPostFix":",","item":"According to what comes before it","itemComment":"","good":false},
     {"itemPrefix":"    ","itemTrans":"现像各不同","itemPostFix":",","item":"Reflecting forms, each different","itemComment":"","good":true},
-    {"itemPrefix":"    ","itemTrans":"业性亦如是","itemPostFix":".<br/><br/>","item":"So is the nature of actions","itemComment":"","good":true},
+    {"itemPrefix":"    ","itemTrans":"业性亦如是","itemPostFix":".<br/><br/>","item":"So is the nature of actions","itemComment":"临近段遗落","good":false},
 
     
 
