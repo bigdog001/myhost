@@ -129,8 +129,22 @@ const scriptureRecords={
     {"itemPrefix":"    ","itemTrans":"能缘所缘力","itemPostFix":",","item":"By the power of perceiver and perceived","itemComment":"","good":true},
     {"itemPrefix":"    ","itemTrans":"种种法出生","itemPostFix":",","item":"All kinds of things are born","itemComment":"","good":true},
     {"itemPrefix":"    ","itemTrans":"速灭不暂停","itemPostFix":",","item":"They soon pass away, not staying","itemComment":"","good":true},
-    {"itemPrefix":"    ","itemTrans":"念念悉如是","itemPostFix":".<br/><br/>\"","item":"Dying out instant to instant","itemComment":"Dying","good":true},
+    {"itemPrefix":"    ","itemTrans":"念念悉如是","itemPostFix":".\"<br/><br/>","item":"Dying out instant to instant","itemComment":"","good":true},
 
+    
+    {"itemPrefix":"    ","item":"Then Manjushri asked Chief of the Precious","itemPostFix":":","itemTrans":"尔时，文殊师利菩萨问宝首菩萨言","itemComment":" ","good":true},
+    {"itemPrefix":"\"","item":"All sentient beings equally have four gross physical elements","itemPostFix":",","itemTrans":"佛子，一切众生等有四大","itemComment":" ","good":true},
+    {"itemPrefix":" ","item":"with no self and nothing pertaining to self","itemPostFix":",","itemTrans":"无我、无我所","itemComment":"pertaining-相关的","good":true},
+    {"itemPrefix":"-","item":"how come there is the experience of pain and pleasure","itemPostFix":",","itemTrans":"云何而有受苦、受乐","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"beauty and ugliness","itemPostFix":",","itemTrans":"端正、丑陋","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"internal and external goodness","itemPostFix":",","itemTrans":"内好、外好","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"little sensation and much sensation","itemPostFix":"?","itemTrans":"少受、多受","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"Why do some experience consequences in the present, and some in the future","itemPostFix":"?","itemTrans":"或受现报，或受后报","itemComment":"","good":true},
+    {"itemPrefix":" ","item":" And all this while there is no good or bad in the realm of reality","itemPostFix":".\"<br/><br/>","itemTrans":"然法界中，无美、无恶","itemComment":"","good":true},
+
+    {"itemPrefix":" ","item":"Chief of the Precious answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，宝首菩萨以颂答曰","itemComment":"","good":true},
+
+    
     
 
     
