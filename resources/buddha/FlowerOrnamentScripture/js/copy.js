@@ -17,7 +17,7 @@ const scriptureRecords={
  "item":" ",
  "itemPostFix":" ",
  "itemTrans":" ",
- "itemComment":" ",
+ "itemComment":"马里兰DMV  https://mymva.maryland.gov/TAP/IND/_/ ",
  "good":true,
 } ,
 
