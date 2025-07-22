@@ -198,6 +198,56 @@ const scriptureRecords={
     {"itemPrefix":"","item":"reveal boundless different realms of objects","itemPostFix":",","itemTrans":"显示无边种种境界","itemComment":"","good":true},  
     {"itemPrefix":"","item":"whereas in the essential nature of things these different characteristics cannot be found at all","itemPostFix":"?\"<br/><br/>","itemTrans":"而法性中，此差别相，皆不可得","itemComment":"","good":true},  
     {"itemPrefix":"","item":"Chief of the Virtuous answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，德首菩萨以颂答曰","itemComment":"","good":true},  
+
+    {"itemPrefix":" ","item":"The meaning of what you ask","itemPostFix":",","itemTrans":"佛子所问义","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is deep and hard to fathom","itemPostFix":",","itemTrans":"甚深难可了","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The wise are able to know it","itemPostFix":",","itemTrans":"智者能知此","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Always delighting in Buddha's virtues","itemPostFix":".<br/><br/>","itemTrans":"常乐佛功德","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"Just as the nature of earth is one","itemPostFix":",","itemTrans":"譬如地性一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"While beings each live separately","itemPostFix":",","itemTrans":"众生各别住","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And the earth has no thought of oneness or difference","itemPostFix":",","itemTrans":"地无一异念","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+
+    {"itemPrefix":" ","item":"Just as the nature of fire is one","itemPostFix":",","itemTrans":"亦如火性一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"While able to burn all things","itemPostFix":",","itemTrans":"能烧一切物","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And the flames make no distinction","itemPostFix":",","itemTrans":"火焰无分别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"Just as the ocean is one ","itemPostFix":",","itemTrans":"亦如大海一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"With millions of different waves","itemPostFix":",","itemTrans":"波涛千万异","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet the water is no different","itemPostFix":",","itemTrans":"水无种种殊","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"And as the nature of wind is one","itemPostFix":",","itemTrans":"亦如风性一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"While able to blow on all things","itemPostFix":",","itemTrans":"能吹一切物","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And wind has no thought of oneness or difference","itemPostFix":",","itemTrans":"风无一异念","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"Also like great thunderheads","itemPostFix":",","itemTrans":"亦如大云雷","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Raining all over the earth","itemPostFix":",","itemTrans":"普雨一切地","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The raindrops make no distinctions","itemPostFix":",","itemTrans":"雨滴无差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+
+    {"itemPrefix":" ","item":"Just as the clement earth, while one","itemPostFix":",","itemTrans":"亦如地界一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can produce various sprouts","itemPostFix":",","itemTrans":"能生种种芽","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet it's not that the earth is diverse","itemPostFix":",","itemTrans":"非地有殊异","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"Just as the sun without clouds overcast","itemPostFix":",","itemTrans":"如日无云曀","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Shines throughout the ten directions","itemPostFix":",","itemTrans":"普照于十方","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Its light beams having no difference","itemPostFix":",","itemTrans":"光明无异性","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true}, 
+    
+    {"itemPrefix":" ","item":"And just as the moon in the sky ","itemPostFix":",","itemTrans":"亦如空中月","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is seen by all in the world ","itemPostFix":",","itemTrans":"世间靡不见","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet the moon doesn't go to them","itemPostFix":",","itemTrans":"非月往其处","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":" ","item":"Just as the king of the gods","itemPostFix":",","itemTrans":"譬如大梵王","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Appears throughout the universe","itemPostFix":",","itemTrans":"应现满三千","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet his body has no change","itemPostFix":",","itemTrans":"其身无别异","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
     
 
     
