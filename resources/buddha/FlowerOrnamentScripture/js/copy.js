@@ -17,7 +17,7 @@ const scriptureRecords={
  "item":" ",
  "itemPostFix":" ",
  "itemTrans":" ",
- "itemComment":"马里兰DMV  https://mymva.maryland.gov/TAP/IND/_/      , texas DMV https://renew.txdmv.gov/Renew/",
+ "itemComment":"马里兰DMV  https://mymva.maryland.gov/TAP/IND/_/      , texas DMV https://renew.txdmv.gov/Renew/    https://www.businessexpress.ny.gov/",
  "good":true,
 } ,
 
