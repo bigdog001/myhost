@@ -316,7 +316,7 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Move all living beings","itemPostFix":".<br/><br/>","itemTrans":"烧一切有为","itemComment":"","good":true},  
 
     {"itemPrefix":"    ","item":"Then Manjushri asked Chief in Effort","itemPostFix":":","itemTrans":"尔时，文殊师利菩萨问勤首菩萨言","itemComment":"","good":true},  
-    {"itemPrefix":"    \"","item":"The Buddhas' teaching is one","itemPostFix":" ","itemTrans":"佛子，佛教是一","itemComment":"","good":true},  
+    {"itemPrefix":"    \"","item":"The Buddhas' teaching is one","itemPostFix":",","itemTrans":"佛子，佛教是一","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"which all beings can see","itemPostFix":"","itemTrans":"众生得见","itemComment":"","good":true},  
     {"itemPrefix":"-","item":"why don't they all immediately cut off all the bonds of afflictions and win emancipation","itemPostFix":"?","itemTrans":"云何不即悉断一切诸烦恼缚而得出离","itemComment":"","good":true},  
 
