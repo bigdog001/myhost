@@ -248,6 +248,23 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Appears throughout the universe","itemPostFix":",","itemTrans":"应现满三千","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Yet his body has no change","itemPostFix":",","itemTrans":"其身无别异","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"So is the truth of all Buddhas","itemPostFix":".<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"Then Manjushri asked the enlightening being Chief in Vision","itemPostFix":" :","itemTrans":"尔时，文殊师利菩萨问目首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":"    \"","item":"Buddhas as fields of blessings are one and the same to all","itemPostFix":"-","itemTrans":"佛子，如来福田等一无异","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"how is it that when sentient beings give alms to them, the resulting rewards arc not the same","itemPostFix":" ","itemTrans":"云何而见众生布施果报不同","itemComment":"alms-施舍,捐献","good":true},  
+    {"itemPrefix":"-","item":"various forms","itemPostFix":" ,","itemTrans":" 种种色","itemComment":"","good":true},  
+    {"itemPrefix":"","item":" various families","itemPostFix":" ,","itemTrans":"种种家","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various faculties","itemPostFix":" ,","itemTrans":"种种根","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various property","itemPostFix":" ,","itemTrans":"种种财","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various masters","itemPostFix":" ,","itemTrans":"种种主","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various followers","itemPostFix":" ,","itemTrans":"种种眷属","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various official positions","itemPostFix":" ,","itemTrans":"种种官位","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various virtuous qualities","itemPostFix":" ,","itemTrans":"种种功德","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"various kinds of knowledge","itemPostFix":"-","itemTrans":"种种智慧","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"and yet the Buddhas are impartial toward them","itemPostFix":" ,","itemTrans":"而佛于彼,其心平等","itemComment":"","good":true},  
+    {"itemPrefix":"","item":"not thinking of them as different","itemPostFix":" ?\" ","itemTrans":"无异思惟","itemComment":"","good":true},  
+    {"itemPrefix":"","item":" Chief in Vision answered in verse:","itemPostFix":":<br/><br/>","itemTrans":"时，目首菩萨以颂答曰","itemComment":"","good":true},  
+    
     
 
     
