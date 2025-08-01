@@ -17,7 +17,7 @@ const scriptureRecords={
  "item":" ",
  "itemPostFix":" ",
  "itemTrans":" ",
- "itemComment":"马里兰DMV  https://mymva.maryland.gov/TAP/IND/_/      , texas DMV https://renew.txdmv.gov/Renew/    https://www.businessexpress.ny.gov/",
+ "itemComment":" https://ia601404.us.archive.org/16/items/TheFlowerOrnamentScriptureATranslationOfTheAvatamsakaSutraByThomasClearypdfdtyxxytd/The%20Flower%20Ornament%20Scripture%20A%20Translation%20of%20the%20Avatamsaka%20Sutra%20by%20Thomas%20Cleary%20%5Bpdf%5D%20%7Bdtyxxytd%7D.pdf  ",
  "good":true,
 } ,
 
