@@ -264,6 +264,58 @@ const scriptureRecords={
     {"itemPrefix":"","item":"and yet the Buddhas are impartial toward them","itemPostFix":" ,","itemTrans":"而佛于彼,其心平等","itemComment":"","good":true},  
     {"itemPrefix":"","item":"not thinking of them as different","itemPostFix":" ?\" ","itemTrans":"无异思惟","itemComment":"","good":true},  
     {"itemPrefix":"","item":" Chief in Vision answered in verse:","itemPostFix":":<br/><br/>","itemTrans":"时，目首菩萨以颂答曰","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"Just as the earth is one","itemPostFix":",","itemTrans":"譬如大地一","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet produces sprouts according to the seeds","itemPostFix":",","itemTrans":"随种各生芽","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Without partiality toward any of them","itemPostFix":",","itemTrans":"于彼无怨亲","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the Buddhas' field of blessings","itemPostFix":".<br/><br/>","itemTrans":"佛福田亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"And just as water is uniform","itemPostFix":",","itemTrans":"又如水一味","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet differs in shape according to the vessel","itemPostFix":",","itemTrans":"因器有差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田亦然","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"It differs only due to beings' minds","itemPostFix":".<br/><br/>","itemTrans":"众生心故异","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"And just as a skilled magician","itemPostFix":",","itemTrans":"亦如巧幻师","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can make people happy","itemPostFix":",","itemTrans":"能令众欢喜","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So can the Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Cause sentient beings joy","itemPostFix":".<br/><br/>","itemTrans":"令众生敬悦","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"As a king with wealth and knowledge","itemPostFix":",","itemTrans":"如有才智王","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can bring gladness to the masses","itemPostFix":",","itemTrans":"能令大众喜","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So can Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Bring peace and happiness to all","itemPostFix":".<br/><br/>","itemTrans":"令众悉安乐","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a clear mirror","itemPostFix":",","itemTrans":"譬如净明镜","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Reflecting images according to the forms","itemPostFix":",","itemTrans":"随色而现像","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So from Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Rewards are obtained according to one's heart","itemPostFix":".<br/><br/>","itemTrans":"随心获众报","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a panacea","itemPostFix":",","itemTrans":"如阿揭陁药","itemComment":"panacea-万能药","good":true},  
+    {"itemPrefix":" ","item":"Which can cure all poisoning","itemPostFix":",","itemTrans":"能疗一切毒","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So does Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Annihilate all afflictions","itemPostFix":".<br/><br/>","itemTrans":"灭诸烦恼患","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"And just as when the sun comes up","itemPostFix":",","itemTrans":"亦如日出时","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"It illuminates the world","itemPostFix":",","itemTrans":"照耀于世间","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Thus does Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Clear away all darkness","itemPostFix":".<br/><br/>","itemTrans":"灭除诸黑暗","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like the clear full moon","itemPostFix":",","itemTrans":"亦如净满月","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Shining over the earth","itemPostFix":",","itemTrans":"普照于大地","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田亦然","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Equal in all places","itemPostFix":".<br/><br/>","itemTrans":"一切处平等","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Just as a great conflagration","itemPostFix":",","itemTrans":"譬如毗蓝风","itemComment":"conflagration-大火,狂风","good":true},  
+    {"itemPrefix":" ","item":"Can burn up all things","itemPostFix":",","itemTrans":"普震于大地","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So does Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Burn up all fabrication","itemPostFix":".<br/><br/>","itemTrans":"动三有众生","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Just as a violent wind ","itemPostFix":",","itemTrans":"譬如大火起","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can cause the earth to tremble","itemPostFix":",","itemTrans":"能烧一切物","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So does Buddhas' field of blessings","itemPostFix":",","itemTrans":"佛福田如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Move all living beings","itemPostFix":".<br/><br/>","itemTrans":"烧一切有为","itemComment":"","good":true},  
+
+    
     
     
 
