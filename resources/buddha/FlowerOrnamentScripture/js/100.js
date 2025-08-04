@@ -334,6 +334,54 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"why is it of benefit to some and not to others","itemPostFix":"?\"","itemTrans":"于诸众生，或有利益？或无利益 ","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Chief in Effort answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，勤首菩萨以颂答曰","itemComment":"","good":true},  
 
+    {"itemPrefix":"    ","item":"Listen well and clearly","itemPostFix":",","itemTrans":"佛子善谛听","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And I will answer truly","itemPostFix":",","itemTrans":"我今如实答","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Some are quickly freed","itemPostFix":",","itemTrans":"或有速解脱","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And some can hardly escape","itemPostFix":".<br/><br/>","itemTrans":"或有难出离","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"If one wishes to eliminate","itemPostFix":",","itemTrans":"若欲求除灭","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The countless faults and ills","itemPostFix":",","itemTrans":"无量诸过恶","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"One should work with diligence","itemPostFix":",","itemTrans":"当于佛法中","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"On the Buddha-teaching","itemPostFix":".<br/><br/>","itemTrans":"勇猛常精进","itemComment":"","good":false},  
+    
+    {"itemPrefix":"    ","item":"For example, a little bit of fire","itemPostFix":",","itemTrans":"譬如微少火","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"Moisture in the kindling will extinguish","itemPostFix":",","itemTrans":"樵湿速令灭","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"So it is with those who're lazy. About the Buddha-teaching","itemPostFix":".<br/><br/>","itemTrans":"于佛教法中，懈怠者亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Just as when you drill for fire","itemPostFix":",","itemTrans":"如钻燧求火","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And stop before the fire appears","itemPostFix":",","itemTrans":"未出而数息","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The heat will immediately disappear","itemPostFix":",","itemTrans":"火势随止灭","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So it is with the indolent","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"indolent-懒惰的","good":true},  
+    
+    {"itemPrefix":"    ","item":"When a man with a magnifying glass","itemPostFix":",","itemTrans":"如人持日珠","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Doesn't focus the sun's rays on anything","itemPostFix":",","itemTrans":"不以物承影","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Fire can never be obtained","itemPostFix":",","itemTrans":"火终不可得","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So it is with the lazy","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like when the dazzling sun shines","itemPostFix":",","itemTrans":"譬如赫日照","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"A child shuts its eyes ","itemPostFix":",","itemTrans":"孩稚闭其目","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And complains \"Why can't I see?\"","itemPostFix":",","itemTrans":"怪言何不睹","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So too are the lazy like this.","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a man lacking hands and feet","itemPostFix":",","itemTrans":"如人无手足","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Wanting to shoot all over the earth,With arrows made of reeds","itemPostFix":",","itemTrans":"欲以芒草箭，遍射破大地","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So too are the lazy ones","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"","good":true},
+    
+    {"itemPrefix":"    ","item":"Like using a single hair","itemPostFix":",","itemTrans":"如以一毛端","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To take the ocean water","itemPostFix":",","itemTrans":"而取大海水","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Trying to drain the ocean","itemPostFix":",","itemTrans":"欲令尽干竭","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So also are the slothful","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"slothful-懒惰","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like when the con fire flares","itemPostFix":",","itemTrans":"又如劫火起","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Trying to put it out with a little water","itemPostFix":",","itemTrans":"欲以少水灭","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who are lazy ,About the Buddha's teaching","itemPostFix":".<br/><br/>","itemTrans":"于佛教法中，懈怠者亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like someone who sees space","itemPostFix":",","itemTrans":"如有见虚空","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"While sitting still, unmoving","itemPostFix":",","itemTrans":"端居不摇动","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"And says he is traveling through it","itemPostFix":",","itemTrans":"而言普腾蹑","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"So is the lazy one","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"","good":true},  
+    
+
     
     
     
