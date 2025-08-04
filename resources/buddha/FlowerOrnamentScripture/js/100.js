@@ -387,7 +387,7 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"they can cut off all afflictions","itemPostFix":".","itemTrans":"悉能除断一切烦恼","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Why then arc there those who accept and hold the true teaching and yet do not cut off afflictions","itemPostFix":",","itemTrans":"何故复有受持正法而不断者","itemComment":"","good":true},
 
-    {"itemPrefix":" ","item":"who go along with anger and resentment","itemPostFix":", ","itemTrans":"随忿、随恨","itemComment":"resentment-怨恨 , 此处英译版缺少:"随贪、瞋、痴，随慢、随覆"之句","good":false},  
+    {"itemPrefix":" ","item":"who go along with anger and resentment","itemPostFix":", ","itemTrans":"随忿、随恨","itemComment":"resentment-怨恨 , 此处英译版缺少:\"随贪、瞋、痴，随慢、随覆\"之句","good":false},  
     {"itemPrefix":" ","item":" go along with jealousy and stinginess","itemPostFix":", ","itemTrans":"随嫉、随悭 ","itemComment":" stinginess-吝啬,悭qiān->“吝啬”或“小气”的意思","good":true},  
     {"itemPrefix":" ","item":"go along with deception and flattery","itemPostFix":", ","itemTrans":"随诳、随谄","itemComment":" deception-欺骗","good":true},  
     {"itemPrefix":" ","item":"compelled by the power of these things","itemPostFix":", ","itemTrans":"势力所转","itemComment":"","good":true},  
