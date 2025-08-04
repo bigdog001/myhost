@@ -489,9 +489,9 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Protecting enlightening beings","itemPostFix":".<br/><br/>","itemTrans":"防护诸菩萨","itemComment":"","good":true},  
     
     {"itemPrefix":"    ","item":"And just as a universal monarch","itemPostFix":",","itemTrans":"亦如转轮王","itemComment":"","good":true},  
-    {"itemPrefix":" ","item":"Can bestow all felicities","itemPostFix":",","itemTrans":"能与一切乐","itemComment":"felicities-幸福","good":false},  
-    {"itemPrefix":" ","item":"So can kindness, compassion, joy and equanimity ","itemPostFix":",","itemTrans":"四等亦如是","itemComment":"","good":false},  
-    {"itemPrefix":" ","item":"Give enlightening beings happiness","itemPostFix":".<br/><br/>","itemTrans":"与诸菩萨乐","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"Can bestow all felicities","itemPostFix":",","itemTrans":"能与一切乐","itemComment":"felicities-幸福","good":true},  
+    {"itemPrefix":" ","item":"So can kindness, compassion, joy and equanimity ","itemPostFix":",","itemTrans":"四等亦如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Give enlightening beings happiness","itemPostFix":".<br/><br/>","itemTrans":"与诸菩萨乐","itemComment":"","good":true},  
     
 
     
