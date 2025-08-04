@@ -380,6 +380,13 @@ const scriptureRecords={
     {"itemPrefix":"    ","item":"While sitting still, unmoving","itemPostFix":",","itemTrans":"端居不摇动","itemComment":"","good":true},  
     {"itemPrefix":"    ","item":"And says he is traveling through it","itemPostFix":",","itemTrans":"而言普腾蹑","itemComment":"","good":true},  
     {"itemPrefix":"    ","item":"So is the lazy one","itemPostFix":".<br/><br/>","itemTrans":"懈怠者亦然","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"Then Manjushri asked Chief in Doctrine","itemPostFix":":\"","itemTrans":"尔时，文殊师利菩萨问法首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"According to what the Buddha says","itemPostFix":",","itemTrans":"佛子，如佛所说","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"if any sentient beings accept and hold the true teaching","itemPostFix":",","itemTrans":"若有众生，受持正法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"they can cut off all afflictions","itemPostFix":".","itemTrans":"悉能除断一切烦恼","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Why then arc there those who accept and hold the true teaching and yet do not cut off afflictions","itemPostFix":",","itemTrans":"何故复有受持正法而不断者","itemComment":"","good":true},
+    
     
 
     
