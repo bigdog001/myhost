@@ -396,6 +396,45 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"why then do they still produce afflictions in their mental actions","itemPostFix":"?\"<br/><br/>","itemTrans":"何故复于心行之内起诸烦恼","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Chief in Doctrine answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，法首菩萨以颂答曰","itemComment":"","good":true},  
 
+    {"itemPrefix":"     ","item":"Listen well and clearly","itemPostFix":",","itemTrans":"佛子善谛听","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the true meaning of what you ask","itemPostFix":",","itemTrans":"所问如实义","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"It is not only by much learning","itemPostFix":",","itemTrans":"非但以多闻","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"That one can enter the Buddhas' teaching","itemPostFix":".<br/><br/>","itemTrans":"能入如来法","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a man floating in water ","itemPostFix":",","itemTrans":"如人水所漂","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Who dies of thirst, afraid of drowning","itemPostFix":",","itemTrans":"惧溺而渴死","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who are learned,Who do not apply the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行 ,多闻亦如是","itemComment":"","good":true},
+    
+    {"itemPrefix":"    ","item":"Like a person skilled in medicine","itemPostFix":",","itemTrans":"如人善方药","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"Who can't cure his own disease","itemPostFix":",","itemTrans":"自疾不能救","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who are learned,But do not apply the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like someone counting others' treasures ","itemPostFix":",","itemTrans":"如人数他宝","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Without half a coin of his own","itemPostFix":",","itemTrans":"自无半钱分","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the one who is learned ,Who doesn't practice the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like one who's born in a royal palace","itemPostFix":",","itemTrans":"如有生王宫","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet who freezes and starves","itemPostFix":",","itemTrans":"而受馁与寒","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who are learned,But do not practice the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a deaf musician","itemPostFix":",","itemTrans":"如聋奏音乐","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Who pleases others, not hearing himself","itemPostFix":",","itemTrans":"悦彼不自闻","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So is the one who is learned,Who does not apply the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a blind embroiderer","itemPostFix":",","itemTrans":"如盲缋众像","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Who shows others but cannot see","itemPostFix":",","itemTrans":"示彼不自见","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who arc learned,But do not practice the teaching","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like a ship's captain ","itemPostFix":",","itemTrans":"譬如海船师","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Who dies at sea","itemPostFix":",","itemTrans":"而于海中死","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So arc those who arc learned, But do not apply the teaching.","itemPostFix":".<br/><br/>","itemTrans":"于法不修行，多闻亦如是","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Like someone on a corner","itemPostFix":",","itemTrans":"如在四衢道","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Saying all kinds of fine things","itemPostFix":",","itemTrans":"广说众好事","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"While having no real inner virtue","itemPostFix":",","itemTrans":"内自无实德","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are those who don't practice","itemPostFix":".<br/><br/>","itemTrans":"不行亦如是","itemComment":"","good":true},  
+    
+
     
     
     
