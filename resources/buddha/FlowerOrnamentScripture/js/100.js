@@ -448,6 +448,52 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"yet all the while there is ultimately but one truth whereby to attain emancipation and realize complete perfect enlightenment?","itemPostFix":"?\"<br/><br/>","itemTrans":"而终无有唯以一法，而得出离成阿耨多罗三藐三菩提者","itemComment":"","good":true}, 
     {"itemPrefix":" ","item":"Chief in Knowledge answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，智首菩萨以颂答曰","itemComment":"","good":true},  
 
+    {"itemPrefix":"    ","item":"Son of Buddha, most rare","itemPostFix":",","itemTrans":"佛子甚希有","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is the ability to know beings' minds","itemPostFix":",","itemTrans":"能知众生心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"As for what you ask","itemPostFix":",","itemTrans":"如仁所问义","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Listen well and I'll explain","itemPostFix":".<br/><br/>","itemTrans":"谛听我今说","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Of the past, future","itemPostFix":",","itemTrans":"过去未来世","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And present guides","itemPostFix":",","itemTrans":"现在诸导师","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"None expounds just one method","itemPostFix":",","itemTrans":"无有说一法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To become enlightened","itemPostFix":".<br/><br/>","itemTrans":"而得于道者","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Buddhas know beings' minds","itemPostFix":",","itemTrans":"佛知众生心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Their natures each different","itemPostFix":",","itemTrans":"性分各不同","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"According to what they need to be freed","itemPostFix":",","itemTrans":"随其所应受","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Thus do the Buddhas teach","itemPostFix":".<br/><br/>","itemTrans":"如是而说法","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"To the stingy they praise giving","itemPostFix":",","itemTrans":"悭者为赞施","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the immoral they praise ethics","itemPostFix":",","itemTrans":"毁禁者赞戒","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"To the angry they praise tolerance","itemPostFix":",","itemTrans":"多瞋为赞忍","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the lazy they praise effort","itemPostFix":".<br/><br/>","itemTrans":"好懈赞精进","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"To those with scattered minds they praise meditative concentration","itemPostFix":",","itemTrans":"乱意赞禅定","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the ignorant, they praise wisdom","itemPostFix":",","itemTrans":"愚痴赞智慧","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the inhuman, they praise kindness and sympathy","itemPostFix":",","itemTrans":"不仁赞慈愍","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To the malicious, compassion","itemPostFix":".<br/><br/>","itemTrans":"怒害赞大悲","itemComment":"malicious-恶意","good":true},  
+    
+    {"itemPrefix":"    ","item":"To the troubled they praise joy","itemPostFix":",","itemTrans":"忧戚为赞喜","itemComment":" ","good":true},  
+    {"itemPrefix":" ","item":"To the devious they praise equanimity","itemPostFix":",","itemTrans":"曲心赞叹舍","itemComment":"devious-弯曲","good":true},  
+    {"itemPrefix":" ","item":"Thus practicing step-by-step","itemPostFix":",","itemTrans":"如是次第修","itemComment":" ","good":true},  
+    {"itemPrefix":" ","item":"One gradually fulfills all Buddha teachings","itemPostFix":".<br/><br/>","itemTrans":"渐具诸佛法","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"It's like first setting up a foundation","itemPostFix":",","itemTrans":"如先立基堵","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Then building the room","itemPostFix":",","itemTrans":"而后造宫室","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Generosity and self-control, like this","itemPostFix":",","itemTrans":"施戒亦复然","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Arc bases of enlightening beings' practices","itemPostFix":".<br/><br/>","itemTrans":"菩萨众行本","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Just like building a castle","itemPostFix":",","itemTrans":"譬如建城郭","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"To protect all the people","itemPostFix":",","itemTrans":"为护诸人众","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"So are tolerance and effort","itemPostFix":",","itemTrans":"忍进亦如是","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Protecting enlightening beings","itemPostFix":".<br/><br/>","itemTrans":"防护诸菩萨","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"And just as a universal monarch","itemPostFix":",","itemTrans":"亦如转轮王","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can bestow all felicities","itemPostFix":",","itemTrans":"能与一切乐","itemComment":"felicities-幸福","good":false},  
+    {"itemPrefix":" ","item":"So can kindness, compassion, joy and equanimity ","itemPostFix":",","itemTrans":"四等亦如是","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"Give enlightening beings happiness","itemPostFix":".<br/><br/>","itemTrans":"与诸菩萨乐","itemComment":"","good":false},  
+    
+
     
     
 
