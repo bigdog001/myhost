@@ -433,6 +433,22 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Saying all kinds of fine things","itemPostFix":",","itemTrans":"广说众好事","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"While having no real inner virtue","itemPostFix":",","itemTrans":"内自无实德","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"So are those who don't practice","itemPostFix":".<br/><br/>","itemTrans":"不行亦如是","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"Then Manjushri asked Chief in Knowledge","itemPostFix":":\"","itemTrans":"尔时，文殊师利菩萨问智首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"In the Buddha teaching","itemPostFix":",","itemTrans":"佛子，于佛法中","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"knowledge is chief","itemPostFix":",","itemTrans":"智为上首","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"so why do the Buddhas","itemPostFix":",","itemTrans":"如来何故","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"in dealing with people, sometimes praise generosity","itemPostFix":",","itemTrans":"或为众生赞叹布施","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"sometimes praise self-control","itemPostFix":",","itemTrans":"或赞持戒","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"sometimes praise tolerance","itemPostFix":",","itemTrans":"或赞堪忍","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"sometimes praise effort","itemPostFix":",","itemTrans":"或赞精进","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"sometimes praise meditation","itemPostFix":",","itemTrans":"或赞禅定","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"sometimes praise wisdom","itemPostFix":",","itemTrans":"或赞智慧","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"or again sometimes praise kindness, compassion, joy, and equanimity","itemPostFix":",","itemTrans":"或复赞叹慈、悲、喜、舍","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"yet all the while there is ultimately but one truth whereby to attain emancipation and realize complete perfect enlightenment?","itemPostFix":"?\"<br/><br/>","itemTrans":"而终无有唯以一法，而得出离成阿耨多罗三藐三菩提者","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"Chief in Knowledge answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，智首菩萨以颂答曰","itemComment":"","good":true},  
+
+    
     
 
     
