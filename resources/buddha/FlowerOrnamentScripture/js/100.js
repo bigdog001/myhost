@@ -492,6 +492,22 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Can bestow all felicities","itemPostFix":",","itemTrans":"能与一切乐","itemComment":"felicities-幸福","good":true},  
     {"itemPrefix":" ","item":"So can kindness, compassion, joy and equanimity ","itemPostFix":",","itemTrans":"四等亦如是","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Give enlightening beings happiness","itemPostFix":".<br/><br/>","itemTrans":"与诸菩萨乐","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"Then Manjushri asked Chief in Goodness","itemPostFix":" :\"","itemTrans":"尔时，文殊师利菩萨问贤首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The Buddhas, the WorldHonored Ones, attain emancipation by means of one path alone","itemPostFix":";","itemTrans":"佛子，诸佛世尊，唯以一道，而得出离","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"why then are the things in the Buddha-lands we see now various and not the same","itemPostFix":"?","itemTrans":"云何今见一切佛土，所有众事，种种不同","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"That is to say","itemPostFix":",","itemTrans":" 所谓","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" the worlds","itemPostFix":",","itemTrans":"世界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the realms of beings","itemPostFix":",","itemTrans":" 众生界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the teaching and training","itemPostFix":",","itemTrans":"说法调伏","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the life span and auras of light","itemPostFix":",","itemTrans":"寿量、光明","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the miracles","itemPostFix":",","itemTrans":"神通","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the congregations","itemPostFix":",","itemTrans":"众会","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the modes of teaching and doctrinal bases","itemPostFix":",","itemTrans":"教仪、法住","itemComment":"doctrinal-教义","good":true},  
+    {"itemPrefix":" ","item":"each have differences","itemPostFix":",","itemTrans":"各有差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"yet all include all the truths of the Buddhas","itemPostFix":",","itemTrans":"无有不具一切佛法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"whereby complete perfect enlightement is attained","itemPostFix":".<br/><br/>","itemTrans":" 而成阿耨多罗三藐三菩提者","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" Chief in Goodness answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，贤首菩萨以颂答曰","itemComment":"","good":true},  
+    
     
 
     
