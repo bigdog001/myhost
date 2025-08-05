@@ -571,6 +571,51 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"what arc the manifestations of the states of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界现","itemComment":"","good":true}, 
     {"itemPrefix":" ","item":"what is the extent of the sphere of the Buddhas","itemPostFix":"?\"<br/><br/>","itemTrans":"何等是佛境界广","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Manjushri answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，文殊师利菩萨以颂答曰","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"The profound realm of the Buddhas","itemPostFix":",","itemTrans":"如来深境界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is equal in extent to space","itemPostFix":",","itemTrans":"其量等虚空","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"All beings enter it","itemPostFix":",","itemTrans":"一切众生入","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Yet really nothing's entered","itemPostFix":".<br/><br/>","itemTrans":"而实无所入","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The sublime causes Of the Buddhas' profound state ","itemPostFix":",","itemTrans":"如来深境界,所有胜妙因","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Could not be fully told,In a billion eons of talk","itemPostFix":".<br/><br/>","itemTrans":"亿劫常宣说，亦复不能尽","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"According to beings' minds and wisdom","itemPostFix":",","itemTrans":"随其心智慧","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Buddhas lead them on and aid them","itemPostFix":",","itemTrans":"诱进咸令益","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"This is the realm of the Buddhas, Liberating beings this way.","itemPostFix":".<br/><br/>","itemTrans":"如是度众生，诸佛之境界","itemComment":"","good":true},
+    
+    {"itemPrefix":"    ","item":"Able to enter all lands ,In the world","itemPostFix":",","itemTrans":"世间诸国土，一切皆随入","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The body of knowledge is formless","itemPostFix":",","itemTrans":"智身无有色","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And cannot be seen by others","itemPostFix":".<br/><br/>","itemTrans":"非彼所能见","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The Buddhas' knowledge is free","itemPostFix":",","itemTrans":"诸佛智自在","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Unhindered in all times","itemPostFix":",","itemTrans":"三世无所碍","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"This realm of wisdom","itemPostFix":",","itemTrans":"如是慧境界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is equanimous as space","itemPostFix":".<br/><br/>","itemTrans":"平等如虚空","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The realms of beings of the cosmos","itemPostFix":",","itemTrans":"法界众生界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Ultimately have no distinction","itemPostFix":",","itemTrans":"究竟无差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Thoroughly knowing all of them ","itemPostFix":",","itemTrans":"一切悉了知","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Is the sphere of the enlightened ones","itemPostFix":".<br/><br/>","itemTrans":"此是如来境","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"All languages and sounds,There are in the worlds ","itemPostFix":",","itemTrans":"一切世界中，所有诸音声","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Buddhas' knowledge can comprehend ","itemPostFix":",","itemTrans":"佛智皆随了","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Without discrimination","itemPostFix":".<br/><br/>","itemTrans":"亦无有分别","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Not perceptible to sense consciousness","itemPostFix":",","itemTrans":"非识所能识","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And not the sphere of mind","itemPostFix":",","itemTrans":"亦非心境界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Its nature fundamentally pure","itemPostFix":",","itemTrans":"其性本清净","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Buddhas' knowledge teaches living beings","itemPostFix":".<br/><br/>","itemTrans":"开示诸群生","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Not action, not affliction","itemPostFix":",","itemTrans":"非业非烦恼","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"With no thing and no abode","itemPostFix":",","itemTrans":"无物无住处","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"No looking and no object","itemPostFix":",","itemTrans":"无照无所行","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Their realization's equanimous throughout the world","itemPostFix":".<br/><br/>","itemTrans":"平等行世间","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The minds of all sentient beings","itemPostFix":",","itemTrans":"一切众生心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"In the past, present, and future","itemPostFix":",","itemTrans":"普在三世中","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The enlightened, in one instant","itemPostFix":",","itemTrans":"如来于一念","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Can thoroughly comprehend","itemPostFix":".<br/><br/>","itemTrans":"一切悉明达","itemComment":"","good":true},  
     
     
     
