@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>《华严经》(80卷)第10品 菩萨问明</title>
+    <link rel="stylesheet" href="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/mycss.css">
+    <script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/jquery.min.js"></script>
+    <script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/bootstrap.min.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/buddha/FlowerOrnamentScripture/js/110.js"></script>
+</head>
+<body>
+
+<center><h3 id="mytitle"> </h3></center><br><br>
+
+<div id="contents" class="container themeans" style="margin-top:30px;">
+
+
+
+</div>
+
+<script src="https://bigdog001.github.io/xiwenxiaoge/gwgz/gwgzf/res/myjs.js"></script>
+</body>
+<script>
+        if (document.readyState == "loading") {
+        document.addEventListener("DOMContentLoaded", ready);
+        }
+    function ready() {
+    var body_data = "";
+    for (let i in scriptureRecords.data) {
+        const transData = scriptureRecords.data[i].itemTrans;
+        const item = scriptureRecords.data[i].item;
+        const pref = (scriptureRecords.data[i].itemPrefix) ? scriptureRecords.data[i].itemPrefix.replaceAll(" ","&nbsp;") :"";
+        const postf = (scriptureRecords.data[i].itemPostFix)? scriptureRecords.data[i].itemPostFix.replaceAll(" ","&nbsp;") :"";
+        //body_data += pref+"<a class=\"tooltip-test\" data-toggle=\"tooltip\" title=\""+item+"\">"+transData+"</a>"+postf;
+        body_data += pref+"<a id=\""+i+"\" class=\"tooltip-test\" data-toggle=\"tooltip\" title=\""+item+"\">"+transData+"</a>"+postf;
+    }
+    console.log(body_data);
+    document.getElementById('contents').innerHTML=body_data;
+    document.getElementById('mytitle').innerHTML=scriptureRecords.title;
+    }
+</script>
+</html>
