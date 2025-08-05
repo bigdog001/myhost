@@ -507,6 +507,56 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"yet all include all the truths of the Buddhas","itemPostFix":",","itemTrans":"无有不具一切佛法","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"whereby complete perfect enlightement is attained","itemPostFix":".<br/><br/>","itemTrans":" 而成阿耨多罗三藐三菩提者","itemComment":"","good":true},  
     {"itemPrefix":" ","item":" Chief in Goodness answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，贤首菩萨以颂答曰","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"Manjushri, truth is always thus","itemPostFix":",","itemTrans":"文殊法常尔","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The Kings of Truth have just one truth","itemPostFix":",","itemTrans":"法王唯一法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"People unhindered by anything","itemPostFix":",","itemTrans":"一切无碍人","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They leave birth and death by one road","itemPostFix":".<br/><br/>","itemTrans":"一道出生死","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"All the Buddha bodies","itemPostFix":",","itemTrans":"一切诸佛身","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Are just one reality-body","itemPostFix":",","itemTrans":"唯是一法身","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"One in mind, one in wisdom","itemPostFix":",","itemTrans":"一心一智慧","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The same in power and fearlessness","itemPostFix":".<br/><br/>","itemTrans":"力无畏亦然","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"According to their dedications","itemPostFix":",","itemTrans":"如本趣菩提","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"When originally starting out for enlightenment","itemPostFix":",","itemTrans":"所有回向心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They developed such lands","itemPostFix":",","itemTrans":"得如是刹土","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Congregations, and teachings","itemPostFix":".<br/><br/>","itemTrans":"众会及说法","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The adornments of all buddha-lands","itemPostFix":",","itemTrans":"一切诸佛刹","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Arc totally complete","itemPostFix":",","itemTrans":"庄严悉圆满","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"According to differences in beings' actions","itemPostFix":",","itemTrans":"随众生行异","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They seem to be unalike","itemPostFix":".<br/><br/>","itemTrans":"如是见不同","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"The buddha-lands and buddha-bodies","itemPostFix":",","itemTrans":"佛刹与佛身","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"The congregations and explanations","itemPostFix":",","itemTrans":"众会及言说","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Such Buddhist teachings as these","itemPostFix":",","itemTrans":"如是诸佛法","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"No sentient beings can see","itemPostFix":".<br/><br/>","itemTrans":"众生莫能见","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"When their minds are purified","itemPostFix":",","itemTrans":"其心已清净","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And their vows fulfilled","itemPostFix":",","itemTrans":"诸愿皆具足","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Such illuminated people","itemPostFix":",","itemTrans":"如是明达人","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Then arc able to see","itemPostFix":".<br/><br/>","itemTrans":"于此乃能睹","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"According to beings' mental inclinations ","itemPostFix":",","itemTrans":"随众生心乐","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And the force of the fruits of their deeds","itemPostFix":",","itemTrans":"及以业果力","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"There seem to them to be differences","itemPostFix":",","itemTrans":"如是见差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"This is due to Buddhas' mystic powers","itemPostFix":".<br/><br/>","itemTrans":"此佛威神故","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Buddha-lands have no discrimination","itemPostFix":",","itemTrans":"佛刹无分别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"No hatred and no attachment","itemPostFix":",","itemTrans":"无憎无有爱","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"But according to beings' minds","itemPostFix":",","itemTrans":"但随众生心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They seem to have differences","itemPostFix":".<br/><br/>","itemTrans":"如是见有殊","itemComment":"","good":true},  
+    
+    {"itemPrefix":"    ","item":"Because of this, in the worlds","itemPostFix":",","itemTrans":"以是于世界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"What is seen is different","itemPostFix":",","itemTrans":"所见各差别","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"This is not the fault","itemPostFix":",","itemTrans":"非一切如来","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"Of the enlightened sages","itemPostFix":".<br/><br/>","itemTrans":"大仙之过咎","itemComment":"","good":false},  
+    
+    {"itemPrefix":"    ","item":"In all worlds ","itemPostFix":",","itemTrans":"一切诸世界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Those who are fit to receive the teaching","itemPostFix":",","itemTrans":"所应受化者","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Always see the Hero of humanity","itemPostFix":",","itemTrans":"常见人中雄","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Such is the Buddhas' teaching","itemPostFix":".\"<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    
     
     
 
