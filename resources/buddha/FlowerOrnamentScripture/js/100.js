@@ -556,6 +556,21 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"Those who are fit to receive the teaching","itemPostFix":",","itemTrans":"所应受化者","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Always see the Hero of humanity","itemPostFix":",","itemTrans":"常见人中雄","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Such is the Buddhas' teaching","itemPostFix":".\"<br/><br/>","itemTrans":"诸佛法如是","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"Then these enlightening beings said to Manjushri","itemPostFix":":\"","itemTrans":"尔时，诸菩萨谓文殊师利菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Son of Buddha, we have each spoken of our understanding","itemPostFix":",","itemTrans":"佛子，我等所解，各自说已","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"We ask you, benevolent one, to use your wonderful powers of elucidation to expound the realm of the enlightened","itemPostFix":"-","itemTrans":"唯愿仁者，以妙辩才，演畅如来所有境界","itemComment":"benevolent-仁慈,elucidation-阐明","good":true},  
+    {"itemPrefix":" ","item":"what is the sphere of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what are the causal bases of the sphere of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界因","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what arc the methods of liberation in the sphere of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界度","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what are the entries into the states of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界入","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what is the wisdom in the realm of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界智","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what are the laws of the realm of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界法","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"what are the explanations of the states of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界说","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what is the knowledge of the sphere of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界知","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what is the realization of the realm of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界证","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"what arc the manifestations of the states of the Buddhas","itemPostFix":"?","itemTrans":"何等是佛境界现","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"what is the extent of the sphere of the Buddhas","itemPostFix":"?\"<br/><br/>","itemTrans":"何等是佛境界广","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Manjushri answered in verse","itemPostFix":":<br/><br/>","itemTrans":"时，文殊师利菩萨以颂答曰","itemComment":"","good":true},  
     
     
     
