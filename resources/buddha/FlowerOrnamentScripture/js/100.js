@@ -616,6 +616,14 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"In the past, present, and future","itemPostFix":",","itemTrans":"普在三世中","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"The enlightened, in one instant","itemPostFix":",","itemTrans":"如来于一念","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"Can thoroughly comprehend","itemPostFix":".<br/><br/>","itemTrans":"一切悉明达","itemComment":"","good":true},  
+
+    {"itemPrefix":"    ","item":"Then all the differences in state","itemPostFix":",","itemTrans":"尔时，此娑婆世界中","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"activity, realm, body, faculties, birth","itemPostFix":",","itemTrans":"一切众生所有法差别、业差别、世间差别、身差别、根差别、受生差别","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"results of keeping precepts","itemPostFix":",","itemTrans":"持戒果差别","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"results of breaking precepts","itemPostFix":",","itemTrans":"犯戒果差别","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"and in resulting lands of all sentient beings in this world Endurance","itemPostFix":",","itemTrans":"国土果差别","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"by the Buddha's spiritual power all became clearly manifest","itemPostFix":".","itemTrans":"以佛神力，悉皆明现","itemComment":"","good":false},  
+    {"itemPrefix":" ","item":"In the same way all these various differences of all sentient beings in the infinite worlds throughout the space of the cosmos in all directions were all clearly revealed by the Buddha's mystic power","itemPostFix":".<br/><br/>","itemTrans":"如是，东方百千亿那由他无数无量、无边无等、不可数、不可称、不可思、不可量、不可说，尽法界、虚空界、一切世界中，所有众生法差别，乃至国土果差别，悉以佛神力故，分明显现；南、西、北方，四维、上、下，亦复如是","itemComment":"","good":false},  
     
     
     
