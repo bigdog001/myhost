@@ -93,6 +93,21 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"and will be free in all ways","itemPostFix":",","itemTrans":"于一切法，无不自在","itemComment":"","good":true}, 
     {"itemPrefix":" ","item":"and will be guides for all sentient beings","itemPostFix":".","itemTrans":"而为众生第二导师 ","itemComment":"","good":true}, 
     {"itemPrefix":" ","item":"How can they use their minds so as to attain all supreme sublime qualities","itemPostFix":"?\"<br/><br/>","itemTrans":"佛子，云何用心能获一切胜妙功德","itemComment":"","good":true},  
+    {"itemPrefix":"    ","item":"Enlightening beings at home","itemPostFix":" ,","itemTrans":"菩萨在家","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Should wish that all beings","itemPostFix":" ,","itemTrans":"当愿众生","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Realize the nature of \"home\" is empty ","itemPostFix":" ,","itemTrans":"知家性空","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And escape its pressures","itemPostFix":" .<br/><br/>","itemTrans":"免其逼迫","itemComment":"","good":true}, 
+    
+    {"itemPrefix":"    ","item":"While serving their parents","itemPostFix":",","itemTrans":"孝事父母","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They should wish that all beings","itemPostFix":",","itemTrans":"当愿众生","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Serve the Buddha, Protecting and nourishing everyone","itemPostFix":".<br/><br/>","itemTrans":"善事于佛,护养一切","itemComment":"","good":true}, 
+    
+    {"itemPrefix":"    ","item":"While with their spouses and children","itemPostFix":",","itemTrans":"妻子集会","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"They should wish that all beings","itemPostFix":",","itemTrans":"当愿众生","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"Be impartial toward everyone","itemPostFix":",","itemTrans":"冤亲平等","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"And forever give up attachment. ","itemPostFix":".<br/><br/>","itemTrans":"永离贪著","itemComment":"","good":true},  
+    
+    
     
     
     
