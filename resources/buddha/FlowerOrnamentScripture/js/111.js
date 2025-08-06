@@ -76,7 +76,23 @@ const scriptureRecords={
     {"itemPrefix":" ","item":" How can they always gain the protection,respect, and support of celestial kings, dragon kings, yaksha kings,gandharva kings, titan kings, garuda kings, kinnara kings, mahoraga kings, human kings, and brahma kings? ","itemPostFix":"?","itemTrans":"云何常得天王、龙王、夜叉王、乾闼婆王、阿修罗王、迦楼罗王、紧那罗王、摩睺罗伽王、人王、梵王之所守护，恭敬供养","itemComment":"","good":true}, 
     {"itemPrefix":" ","item":" How can they be a reliance and savior, a refuge and resort, a lamp and a light, an illuminator and a guide, a supreme and universal leader for all sentient beings","itemPostFix":"?","itemTrans":"云何得与一切众生为依、为救、为归、为趣、为炬、为明、为照、为导、为胜导、为普导","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"How can they be foremost and greatest, excellent and supreme, sublime and most wonderful, highest and unexcelled, incomparable and peerless among all sentient beings","itemPostFix":"?\"<br/><br/>","itemTrans":"云何于一切众生中，为第一、为大、为胜、为最胜、为妙、为极妙、为上、为无上、为无等、为无等等","itemComment":"","good":true},  
-    
+    {"itemPrefix":"     ","item":" Manjushri said to Chief in Knowledge","itemPostFix":":\"","itemTrans":"尔时，文殊师利菩萨告智首菩萨言","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Excellent, Oh Child of Buddha","itemPostFix":"!","itemTrans":"善哉！佛子","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" You have asked this out of a desire to benefit many, to bring peace to many,","itemPostFix":",","itemTrans":"汝今问如是义,为欲多所饶益,多所安隐","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" out of pity for the world","itemPostFix":",","itemTrans":"哀愍世间","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":" to profit and gladden celestial and human beings","itemPostFix":".","itemTrans":" 利乐天人","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"Child of Buddha, if enlightening beings use their minds properly","itemPostFix":",","itemTrans":"佛子，若诸菩萨善用其心","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" they can attain all supreme qualities","itemPostFix":",","itemTrans":"则获一切胜妙功德","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"can have a mind unhindered in regard to all enlightening teachings","itemPostFix":",","itemTrans":"于诸佛法，心无所碍 ","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"can remain on the Path of the Buddhas of past, present, and future, never leaving it even while living in the midst of sentient beings","itemPostFix":",","itemTrans":"住去、来、今诸佛之道；随众生住，恒不舍离","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"can comprehend the characteristics of all things","itemPostFix":",","itemTrans":"如诸法相,悉能通达","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" cut off all evil and fulfill all good","itemPostFix":".","itemTrans":" 断一切恶","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"They will be physically most excellent","itemPostFix":",","itemTrans":"具足众善","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"like Universally Good","itemPostFix":",","itemTrans":"当如普贤，色像第一","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"all of their practical vows they will be able to fulfill","itemPostFix":",","itemTrans":"一切行愿皆得具足","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"and will be free in all ways","itemPostFix":",","itemTrans":"于一切法，无不自在","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"and will be guides for all sentient beings","itemPostFix":".","itemTrans":"而为众生第二导师 ","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"How can they use their minds so as to attain all supreme sublime qualities","itemPostFix":"?\"<br/><br/>","itemTrans":"佛子，云何用心能获一切胜妙功德","itemComment":"","good":true},  
     
     
     
