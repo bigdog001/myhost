@@ -46,6 +46,37 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"form","itemPostFix":",","itemTrans":"色界善巧","itemComment":"","good":true},  
     {"itemPrefix":" ","item":" and formlessness","itemPostFix":",","itemTrans":"无色界善巧","itemComment":"","good":true},  
     {"itemPrefix":" ","item":"and skill in understanding the past, present, and future","itemPostFix":"?","itemTrans":"过去善巧、未来善巧、现在善巧","itemComment":"","good":true},  
+
+
+    {"itemPrefix":" ","item":" How can they cultivate well the branches of enlightenment mindfulness","itemPostFix":",","itemTrans":"云何善修习念觉分","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"discernment","itemPostFix":",","itemTrans":"择法觉分","itemComment":"discernment-辨别力","good":true},  
+    {"itemPrefix":" ","item":"effort","itemPostFix":",","itemTrans":"精进觉分","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"joy","itemPostFix":",","itemTrans":"喜觉分","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"well-being","itemPostFix":",","itemTrans":"猗觉分","itemComment":"猗-美好盛大的樣子","good":true},  
+    {"itemPrefix":" ","item":"concentration","itemPostFix":",","itemTrans":"定觉分","itemComment":"猗-美好盛大的樣子","good":true}, 
+    {"itemPrefix":" ","item":"relinquishment","itemPostFix":" ? ","itemTrans":"舍觉分","itemComment":"relinquishment-放弃","good":true},  
+    {"itemPrefix":" ","item":"How can they attain emptiness,  signlessness , wishlessness","itemPostFix":"?","itemTrans":" 空、无相、无愿","itemComment":"relinquishment-放弃","good":true},  
+    {"itemPrefix":" ","item":"How can they fulfill the means of transcendence-generosity","itemPostFix":",","itemTrans":" 云何得圆满檀波罗蜜","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"self-control","itemPostFix":",","itemTrans":"尸波罗蜜","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"tolerance","itemPostFix":",","itemTrans":"羼提波罗蜜","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"effort","itemPostFix":",","itemTrans":"毗梨耶波罗蜜","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"meditation","itemPostFix":",","itemTrans":"禅那波罗蜜","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":" and wisdom","itemPostFix":"?","itemTrans":"般若波罗蜜","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":" How can they fulfill kindness, compassion, joy, and equanimity","itemPostFix":"?","itemTrans":"及以圆满慈、悲、喜、舍","itemComment":"equanimity-平静_舍","good":true}, 
+    {"itemPrefix":" ","item":"How can they attain the power of knowledge of what is so and what is not","itemPostFix":",","itemTrans":"云何得处非处智力","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"the power of knowledge of consequences of past, future, and present acts","itemPostFix":",","itemTrans":" 过未现在业报智力","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"the power of knowledge of superiority and inferiority of faculties","itemPostFix":",","itemTrans":"根胜劣智力","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":" the power of knowledge of various realms","itemPostFix":",","itemTrans":"种种界智力","itemComment":"","good":true},
+    {"itemPrefix":" ","item":"the power of knowledge of various understandings","itemPostFix":",","itemTrans":" 种种解智力","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"the power of knowledge of where all paths lead","itemPostFix":",","itemTrans":" 一切至处道智力","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":"the power of knowledge of defilement or purity of meditations, liberations, and trances","itemPostFix":",","itemTrans":"禅解脱三昧染净智力","itemComment":"defilement-污秽","good":false}, 
+    {"itemPrefix":" ","item":"the power of knowledge of past lives","itemPostFix":",","itemTrans":"宿住念智力","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"the power of knowledge of unhindered clairvoyance","itemPostFix":",","itemTrans":"无障碍天眼智力","itemComment":"clairvoyance-千里眼","good":true}, 
+    {"itemPrefix":" ","item":"and the power of knowledge of having cut off all taints","itemPostFix":"?","itemTrans":"断诸习智力","itemComment":"taints-污点","good":true},  
+    {"itemPrefix":" ","item":" How can they always gain the protection,respect, and support of celestial kings, dragon kings, yaksha kings,gandharva kings, titan kings, garuda kings, kinnara kings, mahoraga kings, human kings, and brahma kings? ","itemPostFix":"?","itemTrans":"云何常得天王、龙王、夜叉王、乾闼婆王、阿修罗王、迦楼罗王、紧那罗王、摩睺罗伽王、人王、梵王之所守护，恭敬供养","itemComment":"","good":true}, 
+    {"itemPrefix":" ","item":" How can they be a reliance and savior, a refuge and resort, a lamp and a light, an illuminator and a guide, a supreme and universal leader for all sentient beings","itemPostFix":"?","itemTrans":"云何得与一切众生为依、为救、为归、为趣、为炬、为明、为照、为导、为胜导、为普导","itemComment":"","good":true},  {"itemPrefix":" ","item":"How can they be foremost and greatest, excellent and supreme, sublime and most wonderful, highest and unexcelled, incomparable and peerless among all sentient beings","itemPostFix":"?\"","itemTrans":"云何于一切众生中，为第一、为大、为胜、为最胜、为妙、为极妙、为上、为无上、为无等、为无等等","itemComment":"","good":true},  
+    
+    
     
     
     
