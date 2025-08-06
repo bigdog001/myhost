@@ -74,7 +74,8 @@ const scriptureRecords={
     {"itemPrefix":" ","item":"the power of knowledge of unhindered clairvoyance","itemPostFix":",","itemTrans":"无障碍天眼智力","itemComment":"clairvoyance-千里眼","good":true}, 
     {"itemPrefix":" ","item":"and the power of knowledge of having cut off all taints","itemPostFix":"?","itemTrans":"断诸习智力","itemComment":"taints-污点","good":true},  
     {"itemPrefix":" ","item":" How can they always gain the protection,respect, and support of celestial kings, dragon kings, yaksha kings,gandharva kings, titan kings, garuda kings, kinnara kings, mahoraga kings, human kings, and brahma kings? ","itemPostFix":"?","itemTrans":"云何常得天王、龙王、夜叉王、乾闼婆王、阿修罗王、迦楼罗王、紧那罗王、摩睺罗伽王、人王、梵王之所守护，恭敬供养","itemComment":"","good":true}, 
-    {"itemPrefix":" ","item":" How can they be a reliance and savior, a refuge and resort, a lamp and a light, an illuminator and a guide, a supreme and universal leader for all sentient beings","itemPostFix":"?","itemTrans":"云何得与一切众生为依、为救、为归、为趣、为炬、为明、为照、为导、为胜导、为普导","itemComment":"","good":true},  {"itemPrefix":" ","item":"How can they be foremost and greatest, excellent and supreme, sublime and most wonderful, highest and unexcelled, incomparable and peerless among all sentient beings","itemPostFix":"?\"","itemTrans":"云何于一切众生中，为第一、为大、为胜、为最胜、为妙、为极妙、为上、为无上、为无等、为无等等","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":" How can they be a reliance and savior, a refuge and resort, a lamp and a light, an illuminator and a guide, a supreme and universal leader for all sentient beings","itemPostFix":"?","itemTrans":"云何得与一切众生为依、为救、为归、为趣、为炬、为明、为照、为导、为胜导、为普导","itemComment":"","good":true},  
+    {"itemPrefix":" ","item":"How can they be foremost and greatest, excellent and supreme, sublime and most wonderful, highest and unexcelled, incomparable and peerless among all sentient beings","itemPostFix":"?\"<br/><br/>","itemTrans":"云何于一切众生中，为第一、为大、为胜、为最胜、为妙、为极妙、为上、为无上、为无等、为无等等","itemComment":"","good":true},  
     
     
     
