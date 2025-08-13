@@ -2,4 +2,15 @@ $TTL 2D
 
 $ORIGIN demo.cloud-ip.net.
 
-
+@ IN SOA ns.demo.cloud-ip.net. admin.cloud-ip.net. (
+                                   2003080800 ; serial number
+                                   12h        ; refresh
+                                   15m        ; update retry
+                                   4d         ; expiry
+                                   2h         ; minimum
+        )    
+  IN NS ns.demo.cloud-ip.net.
+ns IN A 192.168.1.1
+www IN A 192.168.1.50
+mail IN A 192.168.1.60
+@ IN MX 10 mail.cloud-ip.net.
